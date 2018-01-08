@@ -1,1 +1,1 @@
-# ComputacionGrafica2018
+# Computación Gráfica 2018
